@@ -1,0 +1,15 @@
+{
+  "name": "clbgamesvn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mannm-engineer",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^11.0.0",
+    "puppeteer-cluster": "^0.22.0"
+  }
+}
